@@ -1,1 +1,1 @@
-<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Mario_Gameplay.gif" alt="Doraemon" width="980">
+<img src="https://camo.githubusercontent.com/e03627ab698c5fd5bfae4c0e7a553766ce41d585dc62b3d734f88b056a88e9f7/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4272696c6c69616e744c65616679417263686572666973682d73697a655f726573747269637465642e676966" alt="Doraemon" width="980">
