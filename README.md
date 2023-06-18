@@ -1,1 +1,1 @@
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats... </b></i>📈<br><br>
+<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
