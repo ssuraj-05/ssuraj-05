@@ -1,1 +1,1 @@
-<img src="https://github.com/Harshita248/Harshita248/blob/main/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
+<img src="https://thumbs.gfycat.com/BrilliantLeafyArcherfish-size_restricted.gif" alt="Mario Game" width="980">
