@@ -1,6 +1,6 @@
 <h2 align="left">Hello there, I'm Suraj Kumar</h2>
 
-- 🌱 I’m currently focusing on <a href="https://flutter.dev/" target="blank"> **Frontend.** </a>
+- 🌱 I’m currently focusing on <a href="https://nodejs.org/" target="blank"> **Frontend.** </a>
 
 - 👯 I’m looking to collaborate on **new projects.**
 
